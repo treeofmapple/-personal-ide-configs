@@ -1,8 +1,0 @@
-package updateknowledge;
-
-public class GenericsFactory <T> {
-
-	Class theClass = null;
-	
-	
-}

@@ -1,5 +1,0 @@
-package com.tom.front.authbasic.model;
-
-public abstract class Auditable {
-
-}

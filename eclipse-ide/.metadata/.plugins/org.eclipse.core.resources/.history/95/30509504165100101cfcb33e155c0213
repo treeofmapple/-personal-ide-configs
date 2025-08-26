@@ -1,7 +1,0 @@
-package com.tom.front.authbasic.model;
-
-@Data
-@MappedSuperclass
-public abstract class Auditable {
-
-}

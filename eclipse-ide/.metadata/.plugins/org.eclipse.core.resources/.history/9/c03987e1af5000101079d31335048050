@@ -1,9 +1,0 @@
-package updateknowledge.security.key;
-
-public class JavaKeygen {
-
-	public void createSignature() {
-		
-	}
-	
-}
